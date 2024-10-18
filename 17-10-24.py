@@ -53,6 +53,9 @@ interests_user2 = {"music", "sports", "travel"}
  
 common_interests = interests_user1 & interests_user2
 print("Common interests:",common_interests)
+
+
+
  
 
 
