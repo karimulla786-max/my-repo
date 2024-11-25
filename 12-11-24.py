@@ -25,7 +25,7 @@ class Animal:
 class Dog(Animal):
     def speak(self):
         print("Bark")  
-
+    
 dog = Dog("Buddy")
 dog.speak()
 

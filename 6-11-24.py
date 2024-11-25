@@ -102,10 +102,13 @@ class Square(Rectangle):
 circle = Circle()
 rectangle = Rectangle()
 square = Square()
+
 circle.draw()  
-print("Circle Area:", circle.area(5)) 
+print("Circle Area:", circle.area(5))
+
 rectangle.draw()  
 print("Rectangle Area:", rectangle.area(5, 10))   
+
 square.draw()  
 print("Square Area:", square.area(4))
 

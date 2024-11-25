@@ -1,4 +1,4 @@
-"""""
+
 
 #2.Problem Statement: Create a base class Vehicle with attributes brand and model. Then, create two derived classes Car and Bike, both inheriting from Vehicle, and adding their own attributes and methods.
 
@@ -178,7 +178,7 @@ class Dog(Animal):
  
 dog = Dog()
 
-"""
+
 
 #Real time example of abstraction:-
 
